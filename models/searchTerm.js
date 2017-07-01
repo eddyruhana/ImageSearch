@@ -11,3 +11,4 @@ const searchTermSchema = new Schema(
 const ModelClass = mongoose.model('searchTerm', searchTermSchema);
 
 module.exports = ModelClass;
+//Edit this file on Git!!!
